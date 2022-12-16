@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: devops
+Build-Jdk: 19
+Created-By: Maven Integration for Eclipse
+Class-Path: .
+Main-Class: aproject.aproject
+
